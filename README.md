@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Customize a Button with React Material and JSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An example code for customizing a Button with React Material and JSS. Please refer to [this article](https://muhimasri.com/blogs/how-to-customize-a-button-with-react-material-and-jss/) for a detailed explanation.
 
 ## Available Scripts
 
